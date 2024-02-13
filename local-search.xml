@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="/posts/undefined.html"/>
+    <url>/posts/undefined.html</url>
+    
+    <content type="html"><![CDATA[<p>这里是摘要</p><span id="more"></span><p>这里是正文</p><h2 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h2><h3 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h3><p>正文。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
