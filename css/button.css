@@ -1,0 +1,48 @@
+/* button */
+
+/* template:
+ *
+ * <div style="text-align: right;">
+ * <a class="btn-bilibili" href="javascript:;" title="跳转至哔哩哔哩打开">哔哩哔哩</a> <a class="btn-netease" href="javascript:;" title="跳转至网易云音乐打开">网易云音乐</a> <a class="btn-qqmusic" href="javascript:;" title="跳转至QQ音乐打开">QQ&thinsp;音乐</a>
+ * </div>
+ *
+ */
+
+.markdown-body .btn-bilibili {
+  border: 1px solid var(background-color);
+  background-color:             #ff6699;
+  color:                        #ffffff;
+  transition: all 0.3s;
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-size: 0.875em;
+  line-height: 2;
+  padding: 0 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-body .btn-netease {
+  border: 1px solid var(background-color);
+  background-color:             #fc3d49;
+  color:                        #ffffff;
+  transition: all 0.3s;
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-size: 0.875em;
+  line-height: 2;
+  padding: 0 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-body .btn-qqmusic {
+  border: 1px solid var(background-color);
+  background-color:             #ffdc00;
+  color:                        #31c27c;
+  transition: all 0.3s;
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-size: 0.875em;
+  line-height: 2;
+  padding: 0 0.75rem;
+  margin-bottom: 1rem;
+}
